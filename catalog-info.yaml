@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: testing
+  annotations:
+    github.com/project-slug: Abhay-soni-developer/testing
+spec:
+  type: other
+  lifecycle: unknown
+  owner: Abhay-soni-developer
