@@ -5,6 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: Abhay-soni-developer/testing
 spec:
-  type: website
+  type: service
   lifecycle: development
   owner: Abhay-soni-developer
